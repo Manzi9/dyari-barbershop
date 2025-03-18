@@ -2,7 +2,7 @@ export default function Navigation() {
   return (
     <nav className="fixed w-full z-50 bg-black/80 backdrop-blur-sm">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-white text-2xl font-bold">Dyari Barbershop</div>
+        <div className="text-white text-2xl font-bold">Dyari's Barbershop</div>
         <div className="hidden md:flex space-x-8">
           <a
             href="#home"

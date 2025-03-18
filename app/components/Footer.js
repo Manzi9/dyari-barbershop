@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Dyari Barbershop</h3>
+            <h3 className="text-xl font-bold mb-4">Dyari's Barbershop</h3>
             <p className="text-gray-400">
               Your trusted destination for professional grooming services.
             </p>
@@ -65,7 +65,7 @@ export default function Footer() {
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} Dyari Barbershop. All rights
+            &copy; {new Date().getFullYear()} Dyari's Barbershop. All rights
             reserved.
           </p>
         </div>
