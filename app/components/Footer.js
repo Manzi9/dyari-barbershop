@@ -63,8 +63,17 @@ export default function Footer() {
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
           <p>
-            &copy; {new Date().getFullYear()} Dyari&apos;s Barbershop. All
-            rights reserved.
+            &copy; {new Date().getFullYear()} Dyari&apos;s Barbershop. Developed
+            by{" "}
+            <a
+              href="https://manzi.dev"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white hover:text-teal-200 transition-colors"
+            >
+              Manzi
+            </a>
+            .
           </p>
         </div>
       </div>
