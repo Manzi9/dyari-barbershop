@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">Dyari&apos;s Barbershop</h3>
             <p className="text-gray-400">
-              Your trusted destination for professional grooming services.
+              The best fade in South West London .
             </p>
           </div>
           <div>

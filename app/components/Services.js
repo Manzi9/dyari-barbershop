@@ -73,7 +73,7 @@ export default function Services() {
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-700">
           Our Services
         </h2>
-        <div className="space-y-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-y-8 gap-x-20">
           {services.map((service) => (
             <div
               key={service.name}
