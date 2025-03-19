@@ -1,4 +1,7 @@
+"use client";
+
 import Image from "next/image";
+import ScrollIndicator from "./ScrollIndicator";
 
 export default function Hero() {
   return (
@@ -21,6 +24,7 @@ export default function Hero() {
         <p className="text-xl md:text-2xl mb-8 text-white">
           The best fade in South West London
         </p>
+        <ScrollIndicator />
       </div>
     </section>
   );
