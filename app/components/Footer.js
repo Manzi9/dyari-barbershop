@@ -7,9 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4">Dyari&apos;s Barbershop</h3>
-            <p className="text-gray-400">
-              The best fade in South West London .
-            </p>
+            <p className="text-gray-400">The best fade in South West London.</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
