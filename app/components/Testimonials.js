@@ -41,7 +41,9 @@ export default function Testimonials() {
                   </span>
                 ))}
               </div>
-              <p className="text-gray-600 mb-4">"{testimonial.text}"</p>
+              <p className="text-gray-600 mb-4">
+                &quot;{testimonial.text}&quot;
+              </p>
               <p className="font-semibold text-gray-700">{testimonial.name}</p>
             </div>
           ))}
