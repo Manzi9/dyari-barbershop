@@ -16,6 +16,10 @@ const navItems = [
     link: "#services",
   },
   {
+    name: "Gallery",
+    link: "#gallery",
+  },
+  {
     name: "Testimonials",
     link: "#testimonials",
   },

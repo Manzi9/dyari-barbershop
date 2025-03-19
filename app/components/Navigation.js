@@ -19,6 +19,12 @@ export default function Navigation() {
             Services
           </a>
           <a
+            href="#gallery"
+            className="text-white hover:text-gray-300 transition-colors"
+          >
+            Gallery
+          </a>
+          <a
             href="#testimonials"
             className="text-white hover:text-gray-300 transition-colors"
           >
