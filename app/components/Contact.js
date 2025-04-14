@@ -14,7 +14,12 @@ export default function Contact() {
             </h3>
             <div className="space-y-4">
               <p className="flex items-center gap-2 text-gray-700">
-                <span className="text-xl">📍</span>
+                <span
+                  className="text-xl"
+                  href="https://goo.gl/maps/122HighSt,NewMaldenKT34EP"
+                >
+                  📍
+                </span>
                 122 High St, New Malden KT3 4EP
               </p>
               <p className="flex items-center gap-2 text-gray-700">
