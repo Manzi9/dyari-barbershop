@@ -13,15 +13,13 @@ export default function Contact() {
               Get in Touch
             </h3>
             <div className="space-y-4">
-              <p className="flex items-center gap-2 text-gray-700">
-                <span
-                  className="text-xl"
-                  href="https://goo.gl/maps/122HighSt,NewMaldenKT34EP"
-                >
-                  📍
-                </span>
+              <a
+                className="flex items-center gap-2 text-gray-700"
+                href="https://maps.app.goo.gl/Kg459DZqYTeKsEGB9"
+              >
+                <span className="text-xl">📍</span>
                 122 High St, New Malden KT3 4EP
-              </p>
+              </a>
               <p className="flex items-center gap-2 text-gray-700">
                 <span className="text-xl">📞</span>
                 <a
