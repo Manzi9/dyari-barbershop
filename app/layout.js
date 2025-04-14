@@ -30,7 +30,7 @@ const navItems = [
 ];
 
 export const metadata = {
-  title: "Dyari's Barbershop",
+  title: "Dyari's Barbershop - New Malden",
   description: "Professional barbershop services in New Malden",
 };
 
